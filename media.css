@@ -1,0 +1,16 @@
+@media screen and (max-width:478px) {
+    
+    .main p{
+        font-size: 1.5rem;
+    }
+    
+    .boxes{
+        width: 320px;
+        height: 300px;
+    }
+    .box{
+        width: 100px;
+        height: 90px;
+        font-size: 3.9rem;
+    }
+}
